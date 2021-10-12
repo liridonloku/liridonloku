@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liridonloku
 - 👀 I’m interested in all things related to tech, currently focused on web development.
-- 🌱 I’m currently learning web development via The Odin Project and following the CS50 Harvard course.
+- 🌱 I’m currently learning web development at The Odin Project.
 - 📫 Contact: liridonloku@gmail.com 
 
 <!---
