@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liridon Loku</h1>
-<h3 align="center">I make web pages</h3>
+<h3 align="center">I make web apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liridonloku&label=Profile%20views&color=0e75b6&style=flat" alt="liridonloku" /> </p>
 
