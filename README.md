@@ -5,7 +5,7 @@
 
 <br></br>
 
-- 🔭 I’m working on [MyBook](https://www.github.com/liridonloku/my-book)
+- 🔭 I’m working on [My Blog](https://www.github.com/liridonloku/blog-editor)
 
 - 🌱 I’m currently learning **NodeJS and Express**
 
