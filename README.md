@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS and Express**
 
-- 👨‍💻 My portfolio [liridonloku.vercel.app](liridonloku.vercel.app)
+- 👨‍💻 My portfolio [liridonloku.vercel.app](https://www.liridonloku.vercel.app)
 
 - 📫 Reach me at **liridonloku@gmail.com**
 
