@@ -5,11 +5,9 @@
 
 <br></br>
 
-- 🔭 I’m working on [My Blog](https://www.github.com/liridonloku/blog-editor)
+- 🔭 I’m working on [Fatura - Multi-Platform Invoicing App](https://www.github.com/liridonloku/fatura)
 
-- 🌱 I’m currently learning **NodeJS and Express**
-
-- 👨‍💻 My portfolio [liridonloku.vercel.app](https://liridonloku.vercel.app)
+- 👨‍💻 My portfolio [https://liridonloku.vercel.app](https://liridonloku.vercel.app)
 
 - 📫 Reach me at **liridonloku@gmail.com**
 
